@@ -4,7 +4,7 @@ basket = ['a', 'b', 'c', 'd', 'f']
 
 print(basket.index('d', 0, 5))
 
-# "in" function
+# in method
 
 print('d' in basket) 
 
